@@ -2,7 +2,7 @@
 
 # Applying Gaussian Differential Privacy to Heart Disease Data
 
-[Lilian Sun](lilian.swen@outlook.com), Spring 2023 @ College of Computing, Illinois Tech
+[Lilian Sun](https://github.com/lilian-swen), Spring 2023 @ College of Computing, Illinois Tech
 
 # Project Overview
 
