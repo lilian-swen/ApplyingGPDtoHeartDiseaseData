@@ -4,31 +4,45 @@
 
 [Lilian Sun](https://github.com/lilian-swen), Spring 2023 @ College of Computing, Illinois Tech
 
+
+
+- [Project Overview](#Project Overview)
+- [My Contributions](#My Contributions)
+- [Collaboration](#Collaboration)
+- [Challenge](#Challenge)
+- [Project Dependencies](#Project Dependencies)
+- [Conclusion](#Conclusion)
+
 # Project Overview
 
-During this academic research project related to healthcare data security and privacy, I played a pivotal role in safeguarding sensitive information. In collaboration with a dedicated team, our mission was to protect individual patient privacy while enabling healthcare statisticians to analyze data for informed decision-making.
-
-In this group project, we applied the Gaussian Differential Privacy (GDP) algorithm to a heart disease dataset, effectively adding a controlled amount of noise to maintain privacy. The degree of noise was determined by the sensitivity of the queries and the desired level of privacy protection. Importantly, this approach ensured that statistical information in the data remained intact.
+In this academic research project, we focused on safeguarding sensitive healthcare data while enabling data analysis for informed decision-making. Our mission was to protect individual patient privacy without compromising the integrity of the statistical information in the data. To achieve this, we applied the Gaussian Differential Privacy (GDP) algorithm to a heart disease dataset, introducing controlled noise to maintain privacy.
 
 
 
 # My Contributions
 
-As a key member of the project team, my responsibilities encompassed:
+I played a pivotal role in this project with the following responsibilities:
 
-1. Data Cleaning: Ensuring the dataset was accurate and devoid of inconsistencies.
-2. Data Processing: Preparing the data for analysis, making it ready for privacy protection measures.
-3. Model Selection and Training: Identifying the 7 suitable machine learning models and training them for accurate predictions.
-4. Model Evaluation: Rigorously assessing the models' performance to ensure data integrity and privacy protection.
-5. Application of Gaussian Differential Privacy: Implementing the GDP algorithm to maintain individual patient privacy while retaining statistical significance.
+1. **Data Cleaning:** Ensuring dataset accuracy and consistency.
 
+2. **Data Processing:** Preparing the data for analysis and privacy protection.
+
+3. **Model Selection and Training:** Identifying suitable machine learning models and training them.
+
+4. **Model Evaluation:** Rigorously assessing model performance for data integrity and privacy protection.
+
+5. **Application of Gaussian Differential Privacy:** Implementing the GDP algorithm to protect individual patient privacy.
+
+   
 
 
 # Collaboration
 
 This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. If you would like to access all the related code implementations, please reach out via the email address.
 
-# **Challenge**
+
+
+# Challenge
 
 The accuracy of the machine learning models on the original heart disease dataset was below 50%, it was difficult to meaningfully compare the performance of the models before and after applying Gaussian differential privacy. After performing proper feature engineering, the accuracy of the models has been increased to a level where meaningful comparisons can be made. 
 
@@ -58,7 +72,8 @@ The accuracy of the machine learning models on the original heart disease datase
 
 
 
-# End
+# Conclusion
 
-This project not only broadened my knowledge of data privacy and security but also strengthened my teamwork, data analysis, and problem-solving skills. I'm excited to continue exploring the intersection of healthcare and data privacy in my future endeavors.
+This project not only broadened my knowledge of data privacy and security but also strengthened my teamwork, data analysis, and problem-solving skills. I'm excited to continue exploring the intersection of healthcare and data privacy/data science in my future endeavors.
 
+For inquiries or access to complete code implementations, please reach out to [Lilian Sun](https://github.com/lilian-swen)
