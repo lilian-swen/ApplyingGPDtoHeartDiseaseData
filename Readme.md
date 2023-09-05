@@ -28,6 +28,10 @@ As a key member of the project team, my responsibilities encompassed:
 
 This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. If you would like to access all the related code implementations, please reach out via the email address.
 
+# **Challenge**
+
+The accuracy of the machine learning models on the original heart disease dataset was below 50%, it was difficult to meaningfully compare the performance of the models before and after applying Gaussian differential privacy. After performing proper feature engineering, the accuracy of the models has been increased to a level where meaningful comparisons can be made. 
+
 
 
 # Project Dependencies 
