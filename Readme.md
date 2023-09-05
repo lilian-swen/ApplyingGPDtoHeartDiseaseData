@@ -36,7 +36,7 @@ I played a pivotal role in this project with the following responsibilities:
    
 ## Collaboration
 
-This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. If you would like to access all the related code implementations, please reach out via the email address.
+This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. This code is only about applying Gaussian Differential Privacy (GPD) to heart disease data. If you would like to access all the related code implementations, please reach out via the email address.
 
 
 
