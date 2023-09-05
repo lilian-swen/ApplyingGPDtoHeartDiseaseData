@@ -6,11 +6,11 @@
 
 
 
-- [Project Overview](##Project Overview)
-- [My Contributions](##My Contributions)
+- [Project Overview](##project-overview)
+- [My Contributions](##my-contributions)
 - [Collaboration](##Collaboration)
 - [Challenge](##Challenge)
-- [Project Dependencies](##Project Dependencies)
+- [Project Dependencies](##project-dependencies)
 - [Conclusion](##Conclusion)
 
 ## Project Overview
