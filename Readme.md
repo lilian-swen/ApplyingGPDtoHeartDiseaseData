@@ -17,6 +17,8 @@
 
 In this academic research project, we focused on safeguarding sensitive healthcare data while enabling data analysis for informed decision-making. Our mission was to protect individual patient privacy without compromising the integrity of the statistical information in the data. To achieve this, we applied the Gaussian Differential Privacy (GDP) algorithm to a heart disease dataset, introducing controlled noise to maintain privacy.
 
+This is not a model-centric machine learning project; it's data-centric. Our research focuses on understanding how data quality impacts model performance. In the initial stages of exploring model performance with varying data quality, we began by developing seven different classification models that excel when trained on high-quality data. We kept the data constant and iteratively improved the code and model until we identified the best-performing model. Afterward, we introduced varying levels of noise to the dataset.
+
 
 
 # My Contributions
