@@ -6,14 +6,14 @@
 
 
 
-- [Project Overview](#Project Overview)
-- [My Contributions](#My Contributions)
+- [Project Overview](#project-overview)
+- [My Contributions](#my-contributions)
 - [Collaboration](#Collaboration)
 - [Challenge](#Challenge)
-- [Project Dependencies](#Project Dependencies)
+- [Project Dependencies](#project-dependencies)
 - [Conclusion](#Conclusion)
 
-# Project Overview
+## Project Overview
 
 In this academic research project, we focused on safeguarding sensitive healthcare data while enabling data analysis for informed decision-making. Our mission was to protect individual patient privacy without compromising the integrity of the statistical information in the data. To achieve this, we applied the Gaussian Differential Privacy (GDP) algorithm to a heart disease dataset, introducing controlled noise to maintain privacy.
 
@@ -21,7 +21,7 @@ This is not a model-centric machine learning project; it's data-centric. Our res
 
 
 
-# My Contributions
+## My Contributions
 
 I played a pivotal role in this project with the following responsibilities:
 
@@ -36,28 +36,26 @@ I played a pivotal role in this project with the following responsibilities:
 5. **Application of Gaussian Differential Privacy:** Implementing the GDP algorithm to protect individual patient privacy.
 
    
+## Collaboration
 
-
-# Collaboration
-
-This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. If you would like to access all the related code implementations, please reach out via the email address.
+This collaborative project also included two other team members who focused on researching the GDP mechanism. They provided comprehensive explanations and coding solutions related to sensitivity principles, thereby enhancing the overall effectiveness of our privacy protection approach. I haven't included their code here. This code is only about applying Gaussian Differential Privacy (GPD) to heart disease data. If you would like to access all the related code implementations, please reach out via the email address.
 
 
 
-# Challenge
+## Challenge
 
 The accuracy of the machine learning models on the original heart disease dataset was below 50%, it was difficult to meaningfully compare the performance of the models before and after applying Gaussian differential privacy. After performing proper feature engineering, the accuracy of the models has been increased to a level where meaningful comparisons can be made. 
 
 
 
-# Project Dependencies 
+## Project Dependencies 
 
-## Programming
+### Programming
 
-- **Python**: Version 3.8 or higher.
+- **Python**: Version 3.8
 - **Jupyter Notebook**: For interactive development and documentation.
 
-## Libraries
+### Libraries
 
 - NumPy: A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 - Pandas: An open-source data analysis and manipulation library for Python, providing data structures for efficiently storing large datasets and tools for working with them.
@@ -74,7 +72,7 @@ The accuracy of the machine learning models on the original heart disease datase
 
 
 
-# Conclusion
+## Conclusion
 
 This project not only broadened my knowledge of data privacy and security but also strengthened my teamwork, data analysis, and problem-solving skills. I'm excited to continue exploring the intersection of healthcare and data privacy/data science in my future endeavors.
 
